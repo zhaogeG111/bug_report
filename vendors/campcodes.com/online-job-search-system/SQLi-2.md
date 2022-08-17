@@ -1,6 +1,6 @@
 # Complete Online Job Search System v1.0 has SQL injection
 
-BUG_Author：朝阳
+BUG_Author：朝歌
 
 The password for the backend login account is: admin/admin
 
