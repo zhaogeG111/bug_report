@@ -1,3 +1,5 @@
+BUG_Author：朝歌
+
 Software Link : https://github.com/bg5sbk/MiniCMS After the installation is complete, log in as administrator, open the page
 
 In post.php, user can delete any local .dat files without filter
